@@ -19,4 +19,6 @@ Technologies: JavaScript, Python, React/Redux, Node, Express, PostgreSQL, Sequel
 
 Current Software Stack: Javascript, Python, Flask, PostgreSQL, Express, React & NodeJS
 
-Exposure: SQL, MongoDB, AWS3
+Exposure: SQL, AWS3
+
+I am looking for a role in a growing company working towards creating new and innovative products that can impact the world in a positive way.
